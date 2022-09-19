@@ -1,9 +1,9 @@
-package at2;
+package Listinha;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class testePessoa {
+public class pessoaCase {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package at2;
+package Listinha;
 
 public class Pessoa {
     private String cpf;

@@ -1,0 +1,19 @@
+package poo;
+
+import java.util.Scanner;
+import java.util.ArrayList;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		ArrayList<Pessoa>listPessoas = new ArrayList<Pessoa>();
+		ArrayList<Pessoa>listAlunos = new ArrayList<Pessoa>();
+		ArrayList<Pessoa>listProfessores = new ArrayList<Pessoa>();
+		
+		
+		
+		sc.close();
+	}
+	}

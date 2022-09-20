@@ -9,9 +9,13 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 		ArrayList<Pessoa>listPessoas = new ArrayList<Pessoa>();
-		ArrayList<Pessoa>listAlunos = new ArrayList<Pessoa>();
-		ArrayList<Pessoa>listProfessores = new ArrayList<Pessoa>();
-		
+		ArrayList<Aluno>listAlunos = new ArrayList<Aluno>();
+		ArrayList<Professor>listProfessores = new ArrayList<Professor>();
+			
+		for(int i = 0; i<3; I++) {
+			
+			listPessoas
+		}
 		
 		
 		sc.close();
